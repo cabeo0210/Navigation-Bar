@@ -1,0 +1,20 @@
+Hey guyss
+Welcome back ♥
+Hôm nay mình sẽ chia sẻ đến các bạn cách làm một Navigation Bar ( Thanh điều hướng ) mà các bạn thường thấy ở bất cứ trang web nào 
+Như demo ở đầu video, để code cho hoàn chỉnh và chuyên nghiệp :d 
+Đầu tiên ta cần import thư viện Box Icon ( để chèn các icon ) và Fonts của Google Fonts 
+Các bạn làm theo mình nhé ♥
+Các bạn Copy link ở trên rùi paste vào file html nhen
+Riêng đường dẫn Google Fonts thì các bạn add vào file CSS nhé, do mình chọn phần @import
+Nên mình sẽ import thẳng vào file CSS luôn, còn bạn nào muốn import vào file HTMl thì chọn cách làm bên cạnh trên web khi nãy nhé 
+Okay vậy là xong phần setup rồi :D ta vào code thôi ♥
+Do mình hay sử dụng các fonts trên Box Icon nên mình có thể nhớ tên class, nếu bạn nào chưa quen thì có thể lên web để search như này nhé
+Các bạn copy xong rùi paste vào là ok nhen ♥
+
+Okay xong html rùi vào CSS thôi :D
+
+Yah vậy là chúng ta đã hoàn thành được 1 thanh điều hướng chỉnh chu rùi ♥ 
+Cảm ơn các bạn đã xem hết clip
+Source Code mình để dưới phần description, các bạn có thể tham khảo qua nhé ♥
+Nếu thấy video hay đừng quên để lại 1 like&subcribes giúp mình có thêm động lực ra video nhé ♥
+Many Thanks ♥
